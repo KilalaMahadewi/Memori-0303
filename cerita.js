@@ -148,7 +148,7 @@ const CERITA = {
       ]
     },
     {
-      tanggal: "24 Maret 2026",
+      tanggal: "24 Maret 2024",
       judul: "Cara Kamu Menegurku",
       paragraf: [
         "Malam itu, Ka Fahmi menemaniku mengerjakan tugas. Kita memang sering seperti itu. Aku sedang pusing-pusingnya menghadapi coding yang tidak juga kunjung berhasil. Wkwk. Entah kenapa, malam itu rasanya aku sensitif sekali. Sampai akhirnya, tanpa sadar, Ka Fahmi ikut kena imbasnya.",
@@ -318,9 +318,10 @@ const CERITA = {
     // }
   ],
 
+ 
   penutup: {
-    judul: "Usai",
-    teks: "Terlalu Banyak babak yang tidak tercantum. Terima kasih sudah pernah ada.\nApa pun yang terjadi nanti, aku bersyukur cerita ini pernah kita tulis bersama.",
+    judul: "Babak Terakhir — Terima Kasih, Sayang",
+    teks: "Rasanya ini akan menjadi babak terakhir yang kutulis untuk edisi ini. Bukan karena sudah tidak ada lagi cerita tentang kita, justru karena terlalu banyak momen yang rasanya tidak mungkin kutuliskan satu per satu.\n\nAku hanya ingin kamu tahu, aku sangat beruntung pernah mengenalmu. Terima kasih sudah hadir dan menjadi banyak hal dalam hidupku. Kamu tidak hanya menjadi pasangan, tetapi juga kakak, sahabat, bahkan sosok ayah yang menjagaku dengan caramu sendiri.\n\nTerima kasih untuk semua hal kecil yang mungkin kamu anggap biasa, tetapi selalu berarti untukku. Untuk setiap waktu yang sudah kamu luangkan, usaha yang sudah kamu lakukan, perhatian yang terus kamu berikan, dan rasa aman yang pernah aku rasakan bersamamu. Terima kasih sudah menjadi bagian dari banyak pengalaman pertamaku dan memberiku kenangan yang akan selalu kusimpan.\n\nAku tidak tahu apakah selama ini aku sudah cukup baik dalam menunjukkan betapa berartinya kamu untukku. Tapi satu hal yang pasti, aku sangat menyayangimu. Dan aku akan selalu bersyukur karena pernah memiliki kesempatan untuk mengenalmu sedekat itu.\n\nSekarang, aku hanya bisa berharap hidup memperlakukanmu dengan baik. Semoga kamu selalu dikelilingi orang-orang baik, dipertemukan dengan banyak hal baik, dan diberikan takdir yang baik pula. Semoga segala yang sedang kamu usahakan bisa menemukan jalannya, semoga kamu selalu punya alasan untuk bahagia, dan semoga hidupmu dipenuhi hal-hal yang pantas kamu dapatkan.\n\nKalau suatu hari nanti kita benar-benar hanya menjadi dua orang yang pernah saling mengenal, aku harap kamu tahu bahwa pernah ada seseorang yang begitu bersyukur karena sempat menjadi bagian dari hidupmu.\n\nTerima kasih untuk semuanya, sayang. Untuk cerita, tawa, tangis, dan semua hal yang pernah kita lewati bersama.\n\nAku menyayangimu. Dulu, sekarang, dan dengan cara yang mungkin suatu hari nanti akan berbeda.\n\nSemoga setelah ini, hidup selalu baik kepadamu.",
     tanda: "— dari aku"
   }
 };
