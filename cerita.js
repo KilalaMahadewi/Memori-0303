@@ -17,7 +17,7 @@ const CERITA = {
   keterangan: "Sebuah catatan yang membekas tentang 03.03",
   subjudul: "Tentang hal-hal kecil yang tidak ingin kulupakan.",
   tombol: "Buka Cerita",
-  musik: "assets/music/lagu.mp3", // taruh file lagumu di folder ini
+  musik: musik: "lagu.mp3", // taruh file lagumu di folder ini
 
   babak: [
     {
