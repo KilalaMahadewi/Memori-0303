@@ -308,7 +308,21 @@ const CERITA = {
         "Masih banyak perhatian kecil lainnya yang tidak bisa kuceritakan satu per satu. Tapi dari semua itu, aku belajar bahwa rasa sayang tidak selalu harus ditunjukkan lewat hal-hal besar. Terkadang, cukup dengan kehadiran, usaha, dan kesediaan untuk selalu ada. Dan ia punya caranya sendiri untuk membuatku merasa disayangi."
       ]
     },
-    
+    {
+      tanggal: "Sepanjang waktu",
+      judul: "Terima Kasih, Sayang",
+      paragraf: [
+      "Rasanya ini akan menjadi babak terakhir yang kutulis. Bukan karena sudah tidak ada lagi cerita tentang kita, justru karena terlalu banyak momen yang rasanya tidak mungkin kutuliskan satu per satu.",
+      "Aku hanya ingin kamu tahu, aku sangat beruntung pernah mengenalmu. Terima kasih sudah hadir dan menjadi banyak hal dalam hidupku. Kamu bukan hanya menjadi pasangan, tetapi juga kakak, sahabat, bahkan sosok ayah yang menjagaku dengan caramu sendiri.",
+      "Terima kasih untuk semua hal kecil yang mungkin kamu anggap biasa, tetapi selalu berarti buatku. Untuk setiap waktu yang kamu luangkan, usaha yang kamu lakukan, perhatian yang kamu berikan, dan rasa aman yang pernah aku rasakan bersamamu. Terima kasih sudah menjadi bagian dari banyak pengalaman pertamaku dan memberiku kenangan yang akan selalu kusimpan.",
+      "Aku tidak tahu apakah selama ini aku sudah cukup baik dalam menunjukkan betapa berartinya kamu buatku. Tapi satu hal yang pasti, aku sangat menyayangimu. Dan aku akan selalu bersyukur karena pernah memiliki kesempatan untuk mengenalmu sedekat itu.",
+      "Sekarang, mungkin jalan kita sudah berbeda. Kita tidak lagi berjalan berdampingan seperti dulu. Namun, aku tetap berharap hidup memperlakukanmu dengan baik. Semoga kamu selalu dikelilingi orang-orang baik, dipertemukan dengan banyak hal baik, dan diberikan takdir yang baik pula. Semoga segala yang sedang kamu usahakan bisa menemukan jalannya, semoga kamu selalu punya alasan untuk bahagia, dan semoga hidupmu dipenuhi hal-hal yang pantas kamu dapatkan.",
+      "Kalau suatu hari nanti kita benar-benar hanya menjadi dua orang yang pernah saling mengenal, aku harap kamu tahu bahwa pernah ada seseorang yang begitu bersyukur karena sempat menjadi bagian dari hidupmu.",
+      "Terima kasih untuk semuanya, Kak Fahmi. Untuk cerita, tawa, tangis, dan semua hal yang pernah kita lewati bersama.",
+      "Aku menyayangimu. Dulu, sekarang, dan dengan cara yang mungkin suatu hari nanti akan berbeda.",
+      "Semoga setelah ini, hidup selalu baik kepadamu."
+      ]
+    }
 
     // Babak berikutnya (hapus tanda // di depan baris di bawah untuk memakai):
     // ,{
@@ -320,8 +334,8 @@ const CERITA = {
 
  
   penutup: {
-    judul: "Babak Terakhir — Terima Kasih, Sayang",
-    teks: "Rasanya ini akan menjadi babak terakhir yang kutulis untuk edisi ini. Bukan karena sudah tidak ada lagi cerita tentang kita, justru karena terlalu banyak momen yang rasanya tidak mungkin kutuliskan satu per satu.\n\nAku hanya ingin kamu tahu, aku sangat beruntung pernah mengenalmu. Terima kasih sudah hadir dan menjadi banyak hal dalam hidupku. Kamu tidak hanya menjadi pasangan, tetapi juga kakak, sahabat, bahkan sosok ayah yang menjagaku dengan caramu sendiri.\n\nTerima kasih untuk semua hal kecil yang mungkin kamu anggap biasa, tetapi selalu berarti untukku. Untuk setiap waktu yang sudah kamu luangkan, usaha yang sudah kamu lakukan, perhatian yang terus kamu berikan, dan rasa aman yang pernah aku rasakan bersamamu. Terima kasih sudah menjadi bagian dari banyak pengalaman pertamaku dan memberiku kenangan yang akan selalu kusimpan.\n\nAku tidak tahu apakah selama ini aku sudah cukup baik dalam menunjukkan betapa berartinya kamu untukku. Tapi satu hal yang pasti, aku sangat menyayangimu. Dan aku akan selalu bersyukur karena pernah memiliki kesempatan untuk mengenalmu sedekat itu.\n\nSekarang, aku hanya bisa berharap hidup memperlakukanmu dengan baik. Semoga kamu selalu dikelilingi orang-orang baik, dipertemukan dengan banyak hal baik, dan diberikan takdir yang baik pula. Semoga segala yang sedang kamu usahakan bisa menemukan jalannya, semoga kamu selalu punya alasan untuk bahagia, dan semoga hidupmu dipenuhi hal-hal yang pantas kamu dapatkan.\n\nKalau suatu hari nanti kita benar-benar hanya menjadi dua orang yang pernah saling mengenal, aku harap kamu tahu bahwa pernah ada seseorang yang begitu bersyukur karena sempat menjadi bagian dari hidupmu.\n\nTerima kasih untuk semuanya, sayang. Untuk cerita, tawa, tangis, dan semua hal yang pernah kita lewati bersama.\n\nAku menyayangimu. Dulu, sekarang, dan dengan cara yang mungkin suatu hari nanti akan berbeda.\n\nSemoga setelah ini, hidup selalu baik kepadamu.",
+    judul: "Usai",
+    teks: "Terlalu Banyak babak yang tidak tercantum. Terima kasih sudah pernah ada.\nApa pun yang terjadi nanti, aku bersyukur cerita ini pernah kita tulis bersama.",
     tanda: "— dari aku"
   }
 };
