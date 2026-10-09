@@ -28,15 +28,15 @@ const CERITA = {
         "Tapi dia juga bukan kating, bukan pula ketua panitia masta fakultas, jadi kami berdua sama-sama bingung.",
         "Di tengah kebingungan itu, ada satu orang yang memperhatikan kami.",
         "\"Kalian dari fakultas mana?\"",
-        "\"FTIK, Kak.\"",
+        "\"FTIK, ka.\"",
         "\"Loh, dari BEM atau ketua masta fakultas nggak ada yang mendampingi?\"",
-        "\"Nggak ada, Kak. Hehe.\"",
+        "\"Nggak ada, ka. Hehe.\"",
         "Dia tidak berhenti di situ. Dia langsung menghubungi gubernur BEM FTIK saat itu. Memastikan bahwa kita tidak benar benar dibiarkan sendiri.",
         "Baru aku tahu, ternyata dia wakil gubernur BEM FSTP. Namanya Fahmi.",
         "(di ruang persiapan)",
         "\"Kalau mau di-make up-in sekalian, nggak apa-apa, sini.\"",
         "Mungkin dia kasihan melihatku merias diri sendiri. Aku menolak dengan halus.",
-        "\"Nggak apa-apa, Kak. Aku bisa sendiri. Makasih.\"",
+        "\"Nggak apa-apa, ka. Aku bisa sendiri. Makasih.\"",
         "(di balik panggung, beberapa menit sebelum tampil)",
         "\"Ayo berdoa dulu, supaya semuanya lancar.\"",
         "Lalu dia yang memimpin doanya. Di momen itu aku sadar, dia orang yang punya empati tinggi dan peduli pada sekitarnya, bahkan pada orang yang baru dia temui.",
@@ -65,7 +65,7 @@ const CERITA = {
         "Sederhana, memang. Tidak ada hal yang benar-benar istimewa dari makan siang itu. Hanya dua orang yang duduk berhadapan, menikmati makanan, dan berbincang tentang banyak hal. Tapi di antara obrolan-obrolan itu, aku merasa kami cukup nyambung. Rasanya menyenangkan bisa berbicara dengan seseorang tanpa harus terlalu sibuk memikirkan apa yang harus dibicarakan selanjutnya.",
         "Meski begitu, tentu ada rasa canggung. Bagaimanapun, itu adalah pertama kalinya kami pergi berdua. Ada rasa kikuk yang sebenarnya wajar, ada hal-hal kecil yang mungkin saat itu terasa biasa saja, tapi justru menjadi kenangan yang menyenangkan untuk diingat saat ini.",
         "Aku tidak tahu apakah hari itu juga menjadi sesuatu yang istimewa untuknya. Tapi untukku, makan siang sederhana itu menjadi awal dari pertemuan-pertemuan berikutnya.",
-        "Setelah hari itu, ternyata kami masih punya banyak kesempatan untuk bertemu lagi. Dan tanpa benar-benar kusadari, seseorang yang awalnya hanya kuingat sebagai kakak tingkat yang baik hati di acara inagurasi, perlahan menjadi seseorang yang kehadirannya mulai akrab dalam keseharianku."
+        "Setelah hari itu, ternyata kami masih punya banyak kesempatan untuk bertemu lagi. Dan tanpa benar-benar kusadari, seseorang yang awalnya hanya kuingat sebagai kaak tingkat yang baik hati di acara inagurasi, perlahan menjadi seseorang yang kehadirannya mulai akrab dalam keseharianku."
       ]
     },
     {
@@ -124,7 +124,7 @@ const CERITA = {
       tanggal: "03 Maret 2024",
       judul: "Hari Jadi",
       paragraf: [
-        "Malam itu, kami pergi ke salah satu acara tahunan yang selalu hadir di Semarang menjelang bulan puasa, Dugderan. Untukku, malam itu terasa menyenangkan. Itu pertama kalinya aku datang ke acara tersebut, dan rasanya seru bisa menikmati keramaian bersama Kak Fahmi.",
+        "Malam itu, kami pergi ke salah satu acara tahunan yang selalu hadir di Semarang menjelang bulan puasa, Dugderan. Untukku, malam itu terasa menyenangkan. Itu pertama kalinya aku datang ke acara tersebut, dan rasanya seru bisa menikmati keramaian bersama ka Fahmi.",
         "Kami berjalan menyusuri keramaian, membeli berbagai jajanan, dan menikmati hal-hal kecil yang kami temukan di sepanjang jalan. Sampai akhirnya, kami membeli sebuah celengan berbentuk labu.",
         "\"Biar kita bisa nabung,\" katanya.",
         "Wkwk. Sesederhana itu, tetapi entah kenapa aku masih bisa membayangkan momen tersebut sampai sekarang. Sebuah celengan labu dengan harapan sederhana yang waktu itu mungkin hanya terdengar seperti candaan.",
@@ -163,7 +163,7 @@ const CERITA = {
         "Aku tidak tahu kenapa, tetapi saat itu rasanya ada sesuatu yang menghangat di dalam diriku. Aku yang awalnya hanya ingin beristirahat sebentar, malah jadi memikirkan cara dia memperlakukanku. Tidak membentak, tidak membalas nada bicaraku, apalagi membuatku merasa bersalah dengan cara yang menyakitkan. Ka Fahmi hanya memberitahuku bahwa ada sikapku yang tidak seharusnya kuulangi.",
         "Dan jujur, aku merasa belum pernah diperlakukan seperti itu sebelumnya.",
         "Aku tahu aku salah, meskipun awalnya aku tidak menyadarinya. Aku juga tahu dia berhak merasa tidak nyaman dengan caraku berbicara. Namun, yang membuatku tersentuh adalah bagaimana dia menyampaikannya. Dia bisa menegurku tanpa harus membuatku merasa buruk tentang diriku sendiri.",
-        "Malam itu, aku kembali menyadari satu hal tentangnya. Dia tidak selalu membiarkanku melakukan apa pun sesukaku hanya karena dia menyayangiku. Dia juga mau mengingatkanku ketika aku salah, tetapi dengan cara yang membuatku tetap merasa aman di dekatnya.",
+        "Malam itu, aku kembali menyadari satu hal tentangnya. Dia tidak selalu membiarkanku melakukan apa pun sesukau hanya karena dia menyayangiku. Dia juga mau mengingatkanku ketika aku salah, tetapi dengan cara yang membuatku tetap merasa aman di dekatnya.",
         "Mungkin untuk dia, itu hanya sebuah teguran kecil. Tapi untukku, cara dia berbicara malam itu membekas cukup dalam. Aku merasa lega karena ternyata aku bisa diberi tahu ketika salah tanpa harus merasa takut, dan ada rasa syukur karena seseorang yang begitu dekat denganku memilih untuk menyelesaikan hal kecil seperti itu dengan kelembutan.",
         "Lucunya, malam itu aku sibuk berhadapan dengan coding yang error, sampai lupa kalau terkadang ada hal lain dalam diri kita yang juga perlu diperbaiki.",
         "Dan di tengah pusingnya tugas malam itu, ia mengingatkanku dengan cara yang sederhana. Bukan dengan ceramah yang panjang lebar, bukan dengan kata-kata yang dibuat-buat, melainkan lewat teguran lembut sambil mengusap kepalaku.",
@@ -313,12 +313,12 @@ const CERITA = {
       judul: "Terima Kasih, Sayang",
       paragraf: [
       "Rasanya ini akan menjadi babak terakhir yang kutulis. Bukan karena sudah tidak ada lagi cerita tentang kita, justru karena terlalu banyak momen yang rasanya tidak mungkin kutuliskan satu per satu.",
-      "Aku hanya ingin kamu tahu, aku sangat beruntung pernah mengenalmu. Terima kasih sudah hadir dan menjadi banyak hal dalam hidupku. Kamu bukan hanya menjadi pasangan, tetapi juga kakak, sahabat, bahkan sosok ayah yang menjagaku dengan caramu sendiri.",
-      "Terima kasih untuk semua hal kecil yang mungkin kamu anggap biasa, tetapi selalu berarti buatku. Untuk setiap waktu yang kamu luangkan, usaha yang kamu lakukan, perhatian yang kamu berikan, dan rasa aman yang pernah aku rasakan bersamamu. Terima kasih sudah menjadi bagian dari banyak pengalaman pertamaku dan memberiku kenangan yang akan selalu kusimpan.",
-      "Aku tidak tahu apakah selama ini aku sudah cukup baik dalam menunjukkan betapa berartinya kamu buatku. Tapi satu hal yang pasti, aku sangat menyayangimu. Dan aku akan selalu bersyukur karena pernah memiliki kesempatan untuk mengenalmu sedekat itu.",
+      "Aku hanya ingin kamu tahu, aku sangat beruntung pernah mengenalmu. Terima kasih sudah hadir dan menjadi banyak hal dalam hidupku. Kamu bukan hanya menjadi pasangan, tetapi juga kaak, sahabat, bahkan sosok ayah yang menjagaku dengan caramu sendiri.",
+      "Terima kasih untuk semua hal kecil yang mungkin kamu anggap biasa, tetapi selalu berarti untukku. Untuk setiap waktu yang kamu luangkan, usaha yang kamu lakukan, perhatian yang kamu berikan, dan rasa aman yang pernah aku rasakan bersamamu. Terima kasih sudah menjadi bagian dari banyaknya pengalaman pertamaku dan memberiku kenangan yang akan selalu kusimpan.",
+      "Aku tidak tahu apakah selama ini aku sudah cukup baik dalam menunjukkan betapa berartinya kamu untukku. Tapi satu hal yang pasti, aku sangat menyayangimu. Dan aku akan selalu bersyukur karena pernah memiliki kesempatan untuk mengenalmu sedekat itu.",
       "Sekarang, mungkin jalan kita sudah berbeda. Kita tidak lagi berjalan berdampingan seperti dulu. Namun, aku tetap berharap hidup memperlakukanmu dengan baik. Semoga kamu selalu dikelilingi orang-orang baik, dipertemukan dengan banyak hal baik, dan diberikan takdir yang baik pula. Semoga segala yang sedang kamu usahakan bisa menemukan jalannya, semoga kamu selalu punya alasan untuk bahagia, dan semoga hidupmu dipenuhi hal-hal yang pantas kamu dapatkan.",
       "Kalau suatu hari nanti kita benar-benar hanya menjadi dua orang yang pernah saling mengenal, aku harap kamu tahu bahwa pernah ada seseorang yang begitu bersyukur karena sempat menjadi bagian dari hidupmu.",
-      "Terima kasih untuk semuanya, Kak Fahmi. Untuk cerita, tawa, tangis, dan semua hal yang pernah kita lewati bersama.",
+      "Terima kasih untuk semuanya, sayang. Untuk cerita, tawa, tangis, dan semua hal yang pernah kita lewati bersama.",
       "Aku menyayangimu. Dulu, sekarang, dan dengan cara yang mungkin suatu hari nanti akan berbeda.",
       "Semoga setelah ini, hidup selalu baik kepadamu."
       ]
