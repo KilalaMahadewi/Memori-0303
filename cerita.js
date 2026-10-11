@@ -78,7 +78,7 @@ const CERITA = {
         "\"Kamu mau nonton? Yaudah, yuk, aku jemput.\"",
         "Wow. Inisiatif sekali, batinku waktu itu.",
         "Aku bahkan tidak menyangka obrolan sesederhana itu bisa berujung pada rencana pergi ke bioskop. Kalau dipikir-pikir sekarang, lucu juga bagaimana sebuah cerita tentang mimpi justru menjadi awal dari pengalaman yang benar-benar terjadi.",
-        "Kami pergi ke The Park Mall. Dan ada satu hal yang baru kuketahui kemudian: ternyata Ka Fahmi sedang sakit waktu itu.",
+        "Kami pergi ke The Park Mall. Dan ada satu hal yang baru kuketahui kemudian adalah pada hari itu ternyata Ka Fahmi sedang sakit waktu itu.",
         "Katanya, karena dia merasa kesempatan untuk pergi bersamaku belum tentu datang dua kali, dia tetap mengajakku menonton. Aku tidak tahu harus merespons bagaimana saat mengetahui itu. Di satu sisi, aku merasa tidak menyangka dia tetap mau pergi dalam kondisi seperti itu. Di sisi lain, ada sesuatu yang terasa hangat dari caranya memanfaatkan kesempatan kecil untuk menghabiskan waktu bersama.",
         "Hari itu menjadi pertama kalinya kami menonton bioskop bersama. Mungkin bagi orang lain, menonton film hanyalah kegiatan biasa. Datang, membeli tiket, duduk berdampingan dalam ruangan gelap, lalu pulang setelah film selesai.",
         "Tapi untukku, yang membuatnya berkesan bukan semata-mata film yang kami tonton. Bahkan judul filmnya pun sudah lupa. Yang kuingat justru bagaimana semuanya bermula dari cerita mimpi yang sama sekali tidak direncanakan menjadi kenyataan.",
