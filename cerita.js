@@ -324,21 +324,21 @@ const CERITA = {
       ]
     },
     {
-      tanggal: "Sepanjang waktu",
-      judul: "Temui Aku Lagi",
-      paragraf: [
-        "Ah tidak, ini baru yang terakhir",
-        "Jika memang aku orangnya, temui aku kembali.",
-        "Jika keduanya saling cinta, mungkin waktunya yang tidak tepat.",
-        "Aku ingin terus merawatmu ketika sakit, aku ingin terus memelukmu ketika kamu merasa hidup sedang tidak adil, telingaku ingin terus mendengar keluh kesah tentang apapun yang membuatmu berat, mataku ingin terus melihat prosesmu, tanganku ingin terus membelai rambutmu guna memberi ketenangan.",
-        "Maaf jika aku menjadi salah satu orang yang tidak kamu percaya lagi untuk mendapat cerita seluruh keluh kesahmu, barangkali sudah ada seseorang yang lebih baik dalam mendengarkanmu, aku akan bahagia.",
-        "Banyak maaf yang ingin kuutarakan karena memang banyak juga kurangku untukmu",
-        "Ingin aku menemani setiap prosesmu sayang, namun sepertinya kau tidak memberikanku izin untuk saat ini, salahku juga aku tau itu, tak apa. Semoga jalanmu mulus tak berlubang , semoga kakikmu kuat untuk berlari dan semoga badanmu fit untuk memanggul apapun yang menurutmu berat.",
-        "Setelah selesai temui aku lagi ya? aku tidak memaksamu, barangkali saja aku masih disini dan tetap menunggumu",
-        "Jika waktu yang tepat itu benar benar datang, semoga ia menemukan kita kembali dengan versi terbaik dari diri kita. Jika tidak, semoga kebahagiaan selalu menyertai kita.",
-        "Selamat melanjutkan hidup, walau sudah tidak didekatmu semoga doaku mampu menemani jalanmu sayang."
+        tanggal: "Sepanjang waktu",
+        judul: "Temui Aku Lagi",
+        paragraf: [
+          "Ah tidak, ini baru yang terakhir",
+          "Jika memang aku orangnya, temui aku kembali.",
+          "Jika keduanya saling cinta, mungkin waktunya yang tidak tepat.",
+          "Aku ingin terus merawatmu ketika sakit, aku ingin terus memelukmu ketika kamu merasa hidup sedang tidak adil, telingaku ingin terus mendengar keluh kesah tentang apapun yang membuatmu berat, mataku ingin terus melihat prosesmu, tanganku ingin terus membelai rambutmu guna memberi ketenangan.",
+          "Maaf jika aku menjadi salah satu orang yang tidak kamu percaya lagi untuk mendapat cerita seluruh keluh kesahmu, barangkali sudah ada seseorang yang lebih baik dalam mendengarkanmu, aku akan bahagia.",
+          "Banyak maaf yang ingin kuutarakan karena memang banyak juga kurangku untukmu",
+          "Ingin aku menemani setiap prosesmu sayang, namun sepertinya kau tidak memberikanku izin untuk saat ini, salahku juga aku tau itu, tak apa. Semoga jalanmu mulus tak berlubang , semoga kakikmu kuat untuk berlari dan semoga badanmu fit untuk memanggul apapun yang menurutmu berat.",
+          "Setelah selesai temui aku lagi ya? aku tidak memaksamu, barangkali saja aku masih disini dan tetap menunggumu",
+          "Jika waktu yang tepat itu benar benar datang, semoga ia menemukan kita kembali dengan versi terbaik dari diri kita. Jika tidak, semoga kebahagiaan selalu menyertai kita.",
+          "Selamat melanjutkan hidup, walau sudah tidak didekatmu semoga doaku mampu menemani jalanmu sayang."
         ]
-    }
+      }
 
     // Babak berikutnya (hapus tanda // di depan baris di bawah untuk memakai):
     // ,{
