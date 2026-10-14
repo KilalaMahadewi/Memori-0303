@@ -327,7 +327,7 @@ const CERITA = {
       tanggal: "Sepanjang waktu",
       judul: "Temui Aku Lagi",
       paragraf: [
-        "Ah tidak, ini baru yang terakhir"
+        "Ah tidak, ini baru yang terakhir",
         "Jika memang aku orangnya, temui aku kembali.",
         "Jika keduanya saling cinta, mungkin waktunya yang tidak tepat.",
         "Aku ingin terus merawatmu ketika sakit, aku ingin terus memelukmu ketika kamu merasa hidup sedang tidak adil, telingaku ingin terus mendengar keluh kesah tentang apapun yang membuatmu berat, mataku ingin terus melihat prosesmu, tanganku ingin terus membelai rambutmu guna memberi ketenangan.",
