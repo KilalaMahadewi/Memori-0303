@@ -313,7 +313,7 @@ const CERITA = {
       judul: "Terima Kasih, Sayang",
       paragraf: [
       "Rasanya ini akan menjadi babak terakhir yang kutulis. Bukan karena sudah tidak ada lagi cerita tentang kita, justru karena terlalu banyak momen yang rasanya tidak mungkin kutuliskan satu per satu.",
-      "Aku hanya ingin kamu tahu, aku sangat beruntung pernah mengenalmu. Terima kasih sudah hadir dan menjadi banyak hal dalam hidupku. Kamu bukan hanya menjadi pasangan, tetapi juga kaak, sahabat, bahkan sosok ayah yang menjagaku dengan caramu sendiri.",
+      "Aku hanya ingin kamu tahu, aku sangat beruntung pernah mengenalmu. Terima kasih sudah hadir dan menjadi banyak hal dalam hidupku. Tidak hanya menjadi pasangan, tetapi juga kakak, sahabat, bahkan sosok ayah yang menjagaku dengan caramu sendiri.",
       "Terima kasih untuk semua hal kecil yang mungkin kamu anggap biasa, tetapi selalu berarti untukku. Untuk setiap waktu yang kamu luangkan, usaha yang kamu lakukan, perhatian yang kamu berikan, dan rasa aman yang pernah aku rasakan bersamamu. Terima kasih sudah menjadi bagian dari banyaknya pengalaman pertamaku dan memberiku kenangan yang akan selalu kusimpan.",
       "Aku tidak tahu apakah selama ini aku sudah cukup baik dalam menunjukkan betapa berartinya kamu untukku. Tapi satu hal yang pasti, aku sangat menyayangimu. Dan aku akan selalu bersyukur karena pernah memiliki kesempatan untuk mengenalmu sedekat itu.",
       "Sekarang, mungkin jalan kita sudah berbeda. Kita tidak lagi berjalan berdampingan seperti dulu. Namun, aku tetap berharap hidup memperlakukanmu dengan baik. Semoga kamu selalu dikelilingi orang-orang baik, dipertemukan dengan banyak hal baik, dan diberikan takdir yang baik pula. Semoga segala yang sedang kamu usahakan bisa menemukan jalannya, semoga kamu selalu punya alasan untuk bahagia, dan semoga hidupmu dipenuhi hal-hal yang pantas kamu dapatkan.",
@@ -322,6 +322,22 @@ const CERITA = {
       "Aku menyayangimu. Dulu, sekarang, dan dengan cara yang mungkin suatu hari nanti akan berbeda.",
       "Semoga setelah ini, hidup selalu baik kepadamu."
       ]
+    },
+    {
+      tanggal: "Sepanjang waktu",
+      judul: "Temui Aku Lagi",
+      paragraf: [
+        "Ah tidak, ini baru yang terakhir"
+        "\Jika memang aku orangnya, temui aku kembali.\",
+        "Jika keduanya saling cinta, mungkin waktunya yang tidak tepat.",
+        "Aku ingin terus merawatmu ketika sakit, aku ingin terus memelukmu ketika kamu merasa hidup sedang tidak adil, telingaku ingin terus mendengar keluh kesah tentang apapun yang membuatmu berat, mataku ingin terus melihat prosesmu, tanganku ingin terus membelai rambutmu guna memberi ketenangan.",
+        "Maaf jika aku menjadi salah satu orang yang tidak kamu percaya lagi untuk mendapat cerita seluruh keluh kesahmu, barangkali sudah ada seseorang yang lebih baik dalam mendengarkanmu, aku akan bahagia.",
+        "\Banyak maaf yang ingin kuutarakan karena memang banyak juga kurangku untukmu\",
+        "\Ingin aku menemani setiap prosesmu sayang, namun sepertinya kau tidak memberikanku izin untuk saat ini, salahku juga aku tau itu, tak apa. Semoga jalanmu mulus tak berlubang , semoga kakikmu kuat untuk berlari dan semoga badanmu fit untuk memanggul apapun yang menurutmu berat.\",
+        "\Setelah selesai temui aku lagi ya? aku tidak memaksamu, barangkali saja aku masih disini dan tetap menunggumu\",
+        "Jika waktu yang tepat itu benar benar datang, semoga ia menemukan kita kembali dengan versi terbaik dari diri kita. Jika tidak, semoga kebahagiaan selalu menyertai kita.",
+        "\Selamat melanjutkan hidup, walau sudah tidak didekatmu semoga doaku mampu menemani jalanmu sayang.\"
+        ]
     }
 
     // Babak berikutnya (hapus tanda // di depan baris di bawah untuk memakai):
